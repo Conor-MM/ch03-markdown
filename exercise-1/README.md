@@ -10,3 +10,7 @@ about the quote. When you push your changes back up to GitHub, you
 will see the rendered markdown file.
 
 See `complete` branch for an example.
+
+`If you can, help others; if you cannot do that, at least do not harm them.`
+
+(Quote link)[https://www.brainyquote.com/quotes/dalai_lama_384423]
