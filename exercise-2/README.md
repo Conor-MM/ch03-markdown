@@ -9,3 +9,9 @@ you are taking, with separate columns for course number (in **bold**),
 course title (in _italics_), and instructor.
 
 See `complete` branch for answers.
+
+|Course No.    |Instructor  |
+|------------- |------------|
+|**INFO 201**  |_Toomet_    |
+|**HONORS 220**|_Herron_    |
+|**PSYCH 497** |_Delgado_   |
